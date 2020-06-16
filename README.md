@@ -1,6 +1,6 @@
 # Genetic-algorithm
 
-Implementation of a genetic algorithm to find the maximum of the function f(x) = x * pow(x,5)*(0.007*x+2)
+Implementation of a genetic algorithm to find the maximum of the function f(x) = x * pow(x,5) * (0.007*x+2)
 
 # Running
 This implementation does not need external dependencies. All required content is in the repository
